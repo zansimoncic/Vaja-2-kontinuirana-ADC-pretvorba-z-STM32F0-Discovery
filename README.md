@@ -1,1 +1,1 @@
-# Vaja-2-kontinuirana-ADC-pretvorba-z-STM32F0-Discovery
+# Vaja2-ADC-continuos-conversion-STM32F0
