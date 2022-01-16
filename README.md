@@ -1,0 +1,1 @@
+# Vaja-2-kontinuirana-ADC-pretvorba-z-STM32F0-Discovery
