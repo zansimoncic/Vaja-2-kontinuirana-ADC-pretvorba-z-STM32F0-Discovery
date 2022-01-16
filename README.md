@@ -19,3 +19,6 @@ j) Sampling time (čas vzorčenja tvz_ciklih) spremenite na 239.5 cikov. Pravi �
 vzorčenja se nato poveča še za 12 ciklov. Koliko znaša pravi čas vzorčenja tvz v
 mikro sekundah?
 (enačba: tvz=tvz_ciklih/fpreskalriana)? _Prvi čas vzorčenja: 16,219 μs_
+
+Komentar:
+Sama naloga deluje pravilno, vendar bi z izbiro drugega potenciometra dobila bolj natančne rezultate. Izbrani potenciometer gre le do vrednosti 251.
